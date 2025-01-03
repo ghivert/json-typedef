@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.2 - Unreleased
+
+- Update dependencies to latest up to date `gleam_stdlib` and `gleam_json`.
+
 ## v1.1.1 - 2024-11-19
 
 - Fixed bug in code generation for optional properties.
